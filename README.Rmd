@@ -1,0 +1,16 @@
+---
+title: "Python Django Tutorial" 
+author: "Hannah Pettiford"
+start date of folder: 5/15/2021
+output: 
+    bookdown::html_document2:
+    toc: true
+    fig_caption: true
+---
+
+## Introduction
+
+## Analysis 
+
+## Conclusion 
+
