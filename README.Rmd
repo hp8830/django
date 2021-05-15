@@ -9,7 +9,7 @@ output:
 ---
 
 ## Introduction
-
+## django-admin startproject pyshop .
 ## Analysis 
 
 ## Conclusion 
