@@ -1,4 +1,4 @@
----
+'''
 title: "Python Django Tutorial" 
 author: "Hannah Pettiford"
 start date of folder: 5/15/2021
@@ -6,11 +6,33 @@ output:
     bookdown::html_document2:
     toc: true
     fig_caption: true
----
-
+'''
+'''
 ## Introduction
 ## django-admin startproject pyshop .
+
+
+## Where should this code live?
+## The outter folder mysite is a container for the project 
+## The inner mysite is the actual python package for the project; need to use to import anything inside such as mysite.urls 
+## Outside of the document root. Do Not place code under web servers document root
+
+## https protocol indicates that information sent through the page will be encrypted and harder to read if a third party intercepts the information. **http://**selahcreationsllc.com 
+
+## domain name www.**selahcreationsllc.com/** crucial to understanding nature of your source 
+
+## Elements of the URL that appear *after* the domain indicates different sub-directories: open-text, information-literacy and rhetorical-analysis 
+
+## Recognize subdomains - provide a way for web dev to separate content; subdomains appear *before* the domain name in the URL https://**accounts**.selahcreationsllc.com 
+
+## Country code top level domain .In india, .de Germany, .ca Canada, .jp Japan, .uk United Kingdom www.ima.org.uk
+## IANA Root Zone Database 
+## Use understanding of URLs to enhance your web searching; 
+## Filter by top-level domain ex: student loans site:gov - results with top-level domain gov return, filtering out number of sites not relevant to your research needs
+## Filter by domain; if you know the domain of the site on which your information will appear, you can use **site:** to search only that site ex: sample tests site:dmv.ca.gov will only return pages located on the California Dep of Motor Vehicles website (the domain of which is dmv.ca.gov )
+
+
 ## Analysis 
 
 ## Conclusion 
-
+'''
