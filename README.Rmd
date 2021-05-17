@@ -7,7 +7,7 @@ output:
     toc: true
     fig_caption: true
 '''
-'''{```{r}
+{```{r}
 ## Introduction
 ## django-admin startproject pyshop .
 
@@ -35,6 +35,5 @@ output:
 ## Analysis 
 
 ## Conclusion 
-'''
 ```}
 
